@@ -1,0 +1,3 @@
+Details
+Bank Acc number: 123456
+Password: 79651
