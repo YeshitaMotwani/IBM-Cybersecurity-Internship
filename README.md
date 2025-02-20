@@ -1,4 +1,4 @@
-# IBM-Cyberseurity-Internship
+# IBM-Cybersecurity-Internship
 
 **Steganography-Based Secure Data Transmission System**
 
